@@ -1,6 +1,6 @@
 # RPI-ups-powerdelivery
 
-read readme comming soon
+real readme comming soon
 
 
 
