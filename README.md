@@ -6,7 +6,7 @@ read readme comming soon
 
 i created a RPI power delivery and managment system for my own DIY tablet based on RPI 4
 
-i does have all the battery protection features needed as over and under voltage protection as well as overcurrent and over/under temperature.
+it does have all the battery protection features needed as over and under voltage protection as well as overcurrent and over/under temperature.
 it has a USB-C PD decoy for up to 20v. or can be powered by DC from 5 to 20v.
 
 it can communicate whith the Pi true Serial, I2c or 2 GPIO connected directly
